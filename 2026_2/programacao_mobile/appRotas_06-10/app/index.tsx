@@ -12,6 +12,7 @@ export  default function Index(){
                     <Link style={styles.botao} href={"/produtos"}>Produtos</Link>
                     <Link style={styles.botao} href={"/sobre"}>Sobre</Link>
                     <Link style={styles.botao} href={"/contatos"}>Contatos</Link>
+                    <Link style={styles.botao} href={"/loja"}>Loja</Link>
                 </View>
             </View>
             <View style={styles.container}>
